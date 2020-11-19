@@ -1,3 +1,11 @@
+# Employees Directory
+
+This react app displays a list of 10 employees [using this api call](https://jsonplaceholder.typicode.com/users). The user can search for an employee using name/email/phone. And the list can be sorted by any category by clicking one of the buttons in the table head.
+
+# Screenshot
+
+![screenshot](screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
