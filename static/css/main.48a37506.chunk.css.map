@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Jumbo/jumbo-style.css"],"names":[],"mappings":"AAAA,aACI,WAAY,CACZ,kBACJ,CAEA,GACI,UACJ","file":"main.48a37506.chunk.css","sourcesContent":[".input-group {\n    width: 400px;\n    margin-bottom: 20px;\n}\n\nh1 {\n    color: white;\n}"]}
