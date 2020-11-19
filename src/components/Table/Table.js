@@ -11,6 +11,7 @@ class Table extends Component {
         fetch('https://jsonplaceholder.typicode.com/users')
         .then(response => response.json())
         .then(emps => this.setState({employees: emps}));
+        console.log(this.state.employees)
       }
 
       handleSearch = event => {
